@@ -73,6 +73,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'apps.users',
     'apps.books',
+    'apps.store',
     'drf_yasg',
     'corsheaders',
     'django_filters',

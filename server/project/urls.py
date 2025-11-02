@@ -35,6 +35,7 @@ urlpatterns = [
 apps=[
     'apps.users',
     'apps.books',
+    'apps.store',
 ]
 
 for app in apps:
